@@ -1,0 +1,29 @@
+{
+
+"FATHERS":[
+    {
+        "name":"ram",
+        "age":56
+        
+    },
+
+    {
+        "name":"manikanta",
+        "age":50
+    }
+],
+
+"SONS":[
+    {
+        "name":"venkata ramakrishna",
+        "age":26
+        
+    },
+
+    {
+        "name":"munaga",
+        "age":25
+    }
+
+]
+}
